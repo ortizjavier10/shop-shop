@@ -17,7 +17,7 @@ https://fathomless-cove-01727.herokuapp.com/
 
 
 ## Screenshot
-<img src="./client/assets/screenshot.PNG" >
+<img src="./client/src/assets/screenshot.PNG" >
 
 ## License
 Shop-shop is licensed under the MIT License.
